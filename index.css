@@ -1,0 +1,80 @@
+body{
+	background-color: F9F9F9;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.story-title{
+font-family: arial, sans-serif;
+font-size: 18px;
+max-width: 700px;
+background-color: aliceblue;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.subhead p{
+	font-family: arial, sans-serif;
+	font-size: 19px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.byline p{
+	font-size: 15px;
+	color: grey;
+	font-family: arial, sans-serif;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.img{
+	max-width: 700px;
+	background-color: aliceblue;
+	margin: 1px;
+	padding-left: 10px
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.article{
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	max-width: 700px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.heading h2{
+	font-size: 23px;
+	font-family: arial, sans-serif;
+	padding-left: 10px;
+}
+
+.heading h3{
+	font-size: 23px;
+	font-family: arial, sans-serif;
+	padding-left: 10px;
+}
+
+.audio{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 10px;
+	max-width: 700px;
+}
+}
